@@ -3,6 +3,7 @@
 
 ### 文件及目录结构
 
+'''
 filetree 
 ├── /images/                        #项目用图标及图片文件
 ├── /PyBluez_Win/                   #Windows下的python的蓝牙库，whl文件，pip安装
@@ -19,3 +20,4 @@ filetree
 ├── ArduinoUNO.py                   #ArduinoUNO板级接口
 ├── ArduinoMEGA2560.py              #ArduinoMEGA2560板级接口
 └── test_ArduinoUNO.py              #DEMO及测试程序
+'''
