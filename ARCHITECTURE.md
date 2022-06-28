@@ -1,5 +1,5 @@
 
-# Python for Arduino Board
+# Python for Arduino
 
 ### 文件及目录结构
 
