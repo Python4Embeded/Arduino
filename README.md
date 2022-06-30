@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/python4embeded/arduinoUNO/">
-    <img src="images/python4embeded.png" alt="Logo" width="340" height="90">
+    <img src="images/python4embeded.png" alt="Logo" width="345" height="80">
   </a>
 
   <h3 align="center">Python Package for Arduino</h3>
